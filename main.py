@@ -15,3 +15,5 @@ elif(int(entrada)==2):
   print("\nResultado: ", text)
 else:
   print("Opção inválida!")
+
+#Testando Git
